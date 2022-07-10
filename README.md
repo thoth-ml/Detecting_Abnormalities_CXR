@@ -14,6 +14,17 @@ In this work, we would like to introduce 2 of the highlighted neural architectur
 6. [Results](#6-results)
 7. [References](#7-references)
 
+```bibtex
+@misc{abnormalities-cxr-detection,
+    author = {Tan Ngoc Pham, An Vo, Dzung Tri Bui},
+    title = {{Different deep learning approaches in detecting various abnormalities via Chest X-Ray images}},
+    year = {2021},
+    publisher = {GitHub},
+    journal = {GitHub repository},
+    howpublished = {\url{https://github.com/thoth-ml/Detecting_Abnormalities_CXR}},
+}
+```
+
 ---
 
 ### 1. Introduction
